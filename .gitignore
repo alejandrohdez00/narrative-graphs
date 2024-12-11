@@ -1,2 +1,7 @@
 .venv/
 *.png
+*.html
+*.out
+*.err
+*.slurm
+/lib

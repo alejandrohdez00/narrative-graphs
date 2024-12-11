@@ -2,3 +2,4 @@ networkx>=2.6.3
 matplotlib>=3.4.3
 numpy>=1.21.0
 plotly>=5.13.0 
+pyvis>=0.1.9
